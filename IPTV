@@ -1,8 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
+ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="71 Bangla TV" tvg-name="71 Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxfgHlTm1wM4-9Uq48zONw8OEo7Vt75dIxnNDk5Ra8a74FwpGLpLTUpTVCg3n9QN4NbAs&usqp=CAU" ,,71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 group-title="Bangladeshi" tvg-id="Aamar Cinema" tvg-name="Aamar Cinema" tvg-logo="https://www.aamarcinema.com/wp-content/themes/aamar-cinema/assets/img/logo-lg.png" ,Aamar Cinema
-https://m3u-editor.com/serve/e41d6e30-b3fe-11eb-b54b-3b2ffcf0e65a/293410399
 #EXTINF:0 group-title="Bangladeshi" tvg-id="AKASH AATH" tvg-name="AKASH AATH" tvg-logo="http://icc.roarzone.info/files/akashaath.png" ,AKASH AATH
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Alpona TV" tvg-name="Alpona TV" ,,Alpona TV
@@ -259,12 +259,8 @@ http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="Sony Intertenment" tvg-name="Sony Intertenment" ,,Sony Intertenment
 http://103.205.133.21/hls/chs.m3u8?Live-TV™
-#EXTINF:-1 group-title="Indian" tvg-id="SONY PAL" tvg-name="SONY PAL" ,SONY PAL
-http://rv.imax.re:80/8VC24HrtPd/g2OBC7nzYW/83700
 #EXTINF:0 group-title="Indian" tvg-id="STAR PLUS" tvg-name="STAR PLUS" ,STAR PLUS
 http://103.205.133.20/hls/chsp.m3u8
-#EXTINF:-1 group-title="Indian" tvg-id="UTSAV GOLD" tvg-name="UTSAV GOLD" ,UTSAV GOLD
-http://securepoint.io:83/live/promo/promo/374128.ts?checkedby:iptvcat.com
 #EXTINF:0 group-title="Indian" tvg-id="Zee Aflam" tvg-name="Zee Aflam" ,Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-id="ZEE CINEMA" tvg-name="ZEE CINEMA" ,,ZEE CINEMA
@@ -385,8 +381,6 @@ http://103.205.133.20/hls/chss2.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Titas Sports HD" tvg-name="Titas Sports HD" ,,Titas Sports HD
 http://10.16.100.207:8082/sports/sportst.m3u8
-#EXTINF:0 group-title="Bangladeshi" tvg-id="1. AFIF IPTV" tvg-name="1. AFIF IPTV" tvg-logo="ftp://103.84.38.205/volume(sda1)/Pictures/Afif_20210326_215829.jpg" ,1 AFIF IPTV
-ftp://103.84.38.205/volume(sda1)/Afif%20IPTV.mp4
 #EXTINF:0 group-title="Bangladeshi" tvg-id="DIGI Bangla 24" tvg-name="DIGI Bangla 24" tvg-logo="http://10.16.100.244/files/digibangla24.png" ,DIGI Bangla 24
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-id="Calcutta News" tvg-name="Calcutta News" tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" ,,Calcutta News
