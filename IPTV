@@ -256,7 +256,28 @@ https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e9110
 #EXTINF:0 group-title="English Movies" ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-
+#EXTINF:0 group-title="Indian" ,ZEE ACTION
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian" ,WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:0 group-title="Indian" ,Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:0 group-title="Indian" ,STAR PLUS HD
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+#EXTINF:0 group-title="Indian" ,Star Plus SD
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:0 group-title="Indian" ,Relax TV
+http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
+#EXTINF:0 group-title="Indian" ,Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/safari/live1/chunks.m3u8
+#EXTINF:0 group-title="Indian" ,Sansad TV
+https://playhls.media.nic.in/live/rstv/index.m3u8
+#EXTINF:0 group-title="Indian" ,Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
+#EXTINF:0 group-title="Indian" ,Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="Indian" ,SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,AND TV HD
 http://103.149.130.122:8089/74/index.m3u8
 #EXTINF:0 group-title="HINDI ENTERTENMENT" ,Colors
@@ -293,8 +314,56 @@ https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 http://14.199.164.20:4001/play/a0m2/index.m3u8
 #EXTINF:0 group-title="Hindi Movies" ,ABZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Cinema TV India
+http://14.199.164.20:4001/play/a0n4/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Dhinchaak 2
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Dhinchak
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Enterr 10
+http://14.199.164.20:4001/play/a0j6/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Filamchi
+https://epiconvh.s.llnwi.net/filamchi/master_864.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Filmeraa
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,ZEE BIOSKOP
+http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
 
 
+#EXTINF:0 group-title="Hindi Music" ,Dil Se (Hangama)
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:0 group-title="Hindi Music" ,E24
+http://14.199.164.20:4001/play/a0pc/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,HANGAMA DIL SE
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,I Love U
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:0 group-title="Hindi Music" ,B4U  MUSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/200
+#EXTINF:0 group-title="Hindi Music" ,B4U Kadak
+https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,9X Jalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Hindi Music" ,9X Music
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Hindi Music" ,9XM
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Hindi Music" ,9XM JALWA
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,9X JALWA
 http://103.149.130.122:8089/98/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,9XM
@@ -321,6 +390,54 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:0 group-title="English Music" ,VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8?@asfaiptv
+#EXTINF:0 group-title="Hindi Music" ,M Tunes +
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:0 group-title="Hindi Music" ,MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:iptvcat.com=&t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Hindi Music" ,MUSIC INDIA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/musicindia-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Music India
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Pop Pataakha
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:0 group-title="Hindi Music" ,SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
+#EXTINF:0 group-title="Hindi Music" ,Wow Music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:0 group-title="Indian" ,Aathavan TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+#EXTINF:0 group-title="Indian" ,ABZY COOL
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
+#EXTINF:0 group-title="Indian" ,DD National
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Indian" ,DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 group-title="Indian" ,Dreamz TV
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+#EXTINF:0 group-title="Indian" ,Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="Indian" ,FILAMCHI
+https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
+#EXTINF:0 group-title="Indian" ,Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:0 group-title="Indian" ,Manoranjan TV
+http://14.199.164.20:4001/play/a0m3/index.m3u8
+#EXTINF:0 group-title="Indian" ,Manoranjan TV
+https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:0 group-title="Indian" ,Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:0 group-title="Indian" ,MH1 Prim
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:0 group-title="Indian" ,Middle East
+http://14.199.164.20:4001/play/a0k6/index.m3u8
+#EXTINF:0 group-title="Indian" ,PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w1389871650_b1396000_sleng.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="Indian" ,PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
 
 
 #EXTINF:0 group-title="KIDS" ,NICK
