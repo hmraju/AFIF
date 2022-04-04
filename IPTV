@@ -197,6 +197,10 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 group-title="Documentary" ,Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:0 group-title="English Movies" ,Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:0 group-title="English Movies" ,Warner WB
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,OSN MOVIES
 http://103.149.130.122:8089/39/index.m3u8
 #EXTINF:0 group-title="ENGLISH MOVIES" ,SONY PIX HD
@@ -271,6 +275,26 @@ http://103.149.130.122:8089/97/index.m3u8
 http://103.149.130.122:8089/77/index.m3u8
 #EXTINF:0 group-title="HINDI MOVIES" ,ZEE ACTION
 http://103.149.130.122:8089/90/index.m3u8
+#EXTINF:0 group-title="hindi Entertainment" ,Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 group-title="hindi Entertainment" ,Dabaang
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+#EXTINF:0 group-title="hindi Entertainment" ,Dangal
+https://idvd.multitvsolution.com/idvo/dangal_540p/index.m3u8
+#EXTINF:0 group-title="hindi Entertainment" ,DD NATIONAL
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 group-title="hindi Entertainment" ,Dhamaal
+http://14.199.164.20:4001/play/a0n9/index.m3u8
+#EXTINF:0 group-title="Hindi Entertainment" ,EPIC
+https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+#EXTINF:0 group-title="Hindi Entertainment" ,Ishara TV
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:0 group-title="hindi Entertainment" ,MANORANJAN GRAND
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:0 group-title="Hindi Movies" ,ABZY MOVIES
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+
+
 #EXTINF:0 group-title="HINDI MUSIC" ,9X JALWA
 http://103.149.130.122:8089/98/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,9XM
@@ -279,6 +303,24 @@ http://103.149.130.122:8089/48/index.m3u8
 http://103.149.130.122:8089/46/index.m3u8
 #EXTINF:0 group-title="HINDI MUSIC" ,ZOOM
 http://103.149.130.122:8089/60/index.m3u8
+#EXTINF:0 group-title="English Music" ,CMT MUSIC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:0 group-title="English Music" ,Express
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
+#EXTINF:0 group-title="English Music" ,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 group-title="English Music" ,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 group-title="English Music" ,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:0 group-title="English Music" ,MTV YO!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 group-title="English Music" ,Vevo Hip Hop
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:0 group-title="English Music" ,Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:0 group-title="English Music" ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
 #EXTINF:0 group-title="KIDS" ,NICK
@@ -307,4 +349,12 @@ https://ammoruntime-plex.amagi.tv/playlist.m3u8
 http://103.149.130.122:8089/89/index.m3u8
 #EXTINF:0 group-title="NEWS" ,DW
 http://103.149.130.122:8089/85/index.m3u8
+#EXTINF:0 group-title="English News" ,FRANCE 24
+http://45.126.83.51/qwr9ew/s/s22/index.m3u8
+#EXTINF:0 group-title="Fashion" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0 group-title="Fashion" ,Fashion TV (England)
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
+#EXTINF:0 group-title="Fashion" ,Fashion TV (Midnight)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
